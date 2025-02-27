@@ -6,3 +6,6 @@ streamlit
 matplotlib
 seaborn
 plotly
+optuna
+optuna_integration
+lightgbm
